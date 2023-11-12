@@ -1,4 +1,4 @@
-# Turborepo starter
+# BazaarQQ: An Open-Source Based Reselling and Auction Marketplace
 
 This is an official starter Turborepo.
 
